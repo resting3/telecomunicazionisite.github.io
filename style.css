@@ -1,0 +1,16 @@
+
+
+.outermain{
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 130px;
+    background-color: #59C1BD;
+    position: absolute;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+body{
+    background-color: #CFF5E7;
+}
